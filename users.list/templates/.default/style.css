@@ -1,0 +1,27 @@
+.test-users-list table{
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+.test-users-list .btn_nav{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+.test-users-list a{
+    border: 1px solid;
+    text-align: center;
+    padding: 5px;
+    cursor: pointer;
+    display: block;
+    float: left;
+    margin: 0 5px;
+}
+.test-users-list tr{
+    border: 1px solid;
+}
+.test-users-list .btn-export{
+    display: flex;
+    justify-content: center;
+}

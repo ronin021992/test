@@ -1,0 +1,5 @@
+<?php
+$MESS['TEST_USER_LIST_ID'] = 'ID';
+$MESS['TEST_USER_LIST_NAME'] = 'NAME';
+$MESS['TEST_USER_LIST_CSV'] = 'Скачать CSV';
+$MESS['TEST_USER_LIST_XML'] = 'Скачать XML';
